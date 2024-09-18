@@ -1,16 +1,16 @@
-## Hi there 👋
+## 📊 About Me
 
-<!--
-**Aryukhin/Aryukhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **First-year master's student** in Computer Science and Engineering.
+- 📈 **Data analysis**: Actively developing in this field.
+- 🏆 **Winner of the hackathon** "Digital Data Analysis Technologies" organized by Netology.
 
-Here are some ideas to get you started:
+## 💪 Sports Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥊 **First sports category in boxing**.
+- 🏋️ **Third sports category in powerlifting**, with a bench press of 110 kg.
+- 🏆 **Two-time prizewinner** in my institute's classical powerlifting championship.
+
+## ♟ Personal Interests
+
+- ♟ **Chess rating of 1500** on the Lichess platform.
+- 📚 **Favorite authors**: Jack London, Erich Maria Remarque, and Fyodor Dostoevsky.
