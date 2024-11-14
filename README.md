@@ -8,7 +8,7 @@
 
 - 🥊 **First sports category in boxing**.
 - 🏋️ **Third sports category in powerlifting**, with a bench press of 120 kg.
-- 🏆 **Two-time prizewinner** in my institute's classical powerlifting championship.
+- 🏆 **Three-time prizewinner** in my institute's classical powerlifting championship.
 
 ## Personal Interests
 
